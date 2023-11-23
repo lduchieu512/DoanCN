@@ -1,0 +1,22 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/dashboard",
+        "icon": "dashboard"
+    },
+    {
+        "display_name": "Product Manage",
+        "route": "/productmanage",
+        "icon": "store"
+    },
+    {
+        "display_name": "Bills",
+        "route": "/bills",
+        "icon": "book"
+    },
+    {
+        "display_name": "Setting",
+        "route": "/setting",
+        "icon": "lock-open"
+    }
+]
